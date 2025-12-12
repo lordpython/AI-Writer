@@ -36,3 +36,4 @@ firecrawl-py
 gTTS
 streamlit-mic-recorder
 
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
